@@ -6,7 +6,7 @@ padding: 0;
 
 
 header{
-background-color: #424e61;
+background-color: #da0078;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -39,3 +39,48 @@ font-size: 24px;
 
 
 }
+
+.escola{
+background-image: linear-gradient(#ac6597,#d0b0d6);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-imagem{
+
+    width: 25%;
+
+}
+
+.escola-div-conteudo{
+width: 35%;
+
+}
+
+
+.escola-titulo{
+padding: 24px;
+
+
+}
+
+
+.escola-texto-um{
+padding: 24px 0;
+font-size: 24px;
+
+
+
+}
+
+
+.escola-texto-dois{
+    padding: 24px 0;
+    font-size: 24px;
+    
+    
+    
+    }
